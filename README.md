@@ -27,7 +27,7 @@
 ## My Skill Set  
 
 
-
+<table><tr><td valign="top" >
 
 ### Frontend  
 <div align="center">  
@@ -41,7 +41,7 @@
 
 
 
-
+<table><tr><td valign="top" >
 
 ### Backend  
 <div align="center">  
