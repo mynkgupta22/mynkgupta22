@@ -27,7 +27,7 @@ Here are some of the projects I'm proud of:
     </td>
     <td width="50%" valign="top">
       <h3>🚀 SprintForge - AI Sprint Management Tool</h3>
-      <p>Engineered an AI-driven, Jira-like tool that boosted team efficiency by 30% by automating sprint planning, detecting scope creep, and generating risk heatmaps.</p>
+      <p>Engineered an AI-driven, Jira-like tool that boosted team efficiency by automating sprint planning, detecting scope creep, and generating risk heatmaps.</p>
       <p><strong>Tech:</strong> Java, Spring Boot, React, Redux, PostgreSQL (with PGVector)</p>
     </td>
   </tr>
