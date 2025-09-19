@@ -1,76 +1,98 @@
+# <h1 align="center">Hi 👋, I'm Mayank Gupta</h1>
 
-  
-
-### <h1 align="center" style="fontsize=48px" >Hi👋, I'm Mayank Gupta</h1>
-
-
- <div align="center" style="fint-weight=bold" >An Aspiring Java Backend Developer 👨‍💻 🚀</div> 
- <br>
- <p>An Aspiring Full Stack Web Developer who is analytical and meticulous. able to create full-stack online apps utilizing Java, Spring Boot, MySQL, and Hibernate on the backend and HTML, CSS, and JavaScript on the front end. High adaptability to learn new technologies quickly and paying attention to details. Aims to leverage knowledge and build world class server-side of web applications while facilitating organization in achieving functional goals.</p>
-<br>
-
-  
-
-- 🔭 I’m currently studying Full Stack Web Development at Masai School  
-  
-
-- 🌱 I’m currently developing projects in SpringBoot and MySQL. 
-
-- 👨‍💻 All of my projects are available at [mynkgupta22](https://mynkgupta22.github.io)
-  
-- ❓ Ask me about anything related to Java, JavaScript and MySQL  
-  
-
-<br/>  
-
-
-## My Skill Set  
-
-<h2 align='center'> :pencil: Technical Skills</h2>
-
-<table align='center'><tr><td valign="top" width="33%">    <h3>Frontend</h3>   <div align="center">   <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>   <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>   <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-  </div> 
-  </td><td valign="top" width="33%">    <h3>Backend</h3>   <div align="center">   <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
- 
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
- 
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>    </div>  </td></tr></table>    <br/>
-
-<br>
-<h3 align='center'>Dev Ops</h3>
-
-<br>
-<div align='center' style="display: flex;">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
- 
+<div align="center">
+  <h3>AI Engineer | Backend Architect | Building Production-Ready AI Systems</h3>
 </div>
 
+<br>
 
+I bring a backend developer's mindset—obsessed with security, performance, and scalability—to the world of LLMs, RAG systems, and AI-powered applications. My journey to AI engineering was a deliberate path through sales, entrepreneurship, and enterprise backend development that taught me one core lesson: **technology must solve real-world problems.**
 
-<br/>  
+My experience engineering scalable systems for 100,000+ users taught me how to build things that last. Today, I apply that full-stack perspective to my passion: building intelligent, secure, and production-ready AI systems that deliver tangible business value.
 
+<br>
 
-## Connect with me  
+---
+
+## ✨ Project Spotlight
+
+Here are some of the projects I'm proud of:
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 ORRIS - RBAC AI ChatBot</h3>
+      <p>Architected and deployed a secure, AI-powered document intelligence platform with a full RAG pipeline, OAuth2/JWT authentication, and a real-time Google Drive auto-ingestion system.</p>
+      <p><strong>Tech:</strong> Python, FastAPI, Next.js, PostgreSQL, Qdrant, LangChain, FinLlama</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚀 SprintForge - AI Sprint Management Tool</h3>
+      <p>Engineered an AI-driven, Jira-like tool that boosted team efficiency by 30% by automating sprint planning, detecting scope creep, and generating risk heatmaps.</p>
+      <p><strong>Tech:</strong> Java, Spring Boot, React, Redux, PostgreSQL (with PGVector)</p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+---
+
+## 🛠️ My Tech Stack
+
+### 🤖 AI & Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-008661?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangGraph-f26522?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Generative AI-8A2BE2?style=for-the-badge" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vector DB-FF5733?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Qdrant-FF9900?style=for-the-badge" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+## 🔗 Connect with Me
+
 <div align="center">
-<a href="https://www.linkedin.com/in/mayank-gupta-4954b2120" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/mynkgupta22" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+  <a href="https://www.linkedin.com/in/mayank-gupta-4954b2120" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/mynkgupta22" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://mayankgupta22.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>
+</div>
 
-<br/>  
+---
 
+## 📊 My GitHub Stats
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mynkgupta22&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mynkgupta22&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" />
+</div>
 
-<br/>  
+<br/>
